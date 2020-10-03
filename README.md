@@ -1,3 +1,5 @@
+<img align="left" width="200" height="200" src="./assets/joelim-octocat.gif">
+
 - :wave: Hi, I'm Joe Lim
 - :briefcase: I'm currently working on Microsoft Teams
 - :nerd_face: I’m currently learning Kubernetes
